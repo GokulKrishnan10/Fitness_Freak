@@ -1,0 +1,7 @@
+.form-div {
+  background-color: blue;
+  flex: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,16 @@
+.chat-div {
+  background-color: aquamarine;
+  display: flex;
+  flex-direction: column;
+}
+.ask-button {
+  height: 50px;
+  background-color: cyan;
+  border: none;
+  box-shadow: solid black 10px 10px 10px;
+}
+.ask-button:hover {
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+}

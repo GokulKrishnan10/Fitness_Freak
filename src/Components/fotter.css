@@ -1,0 +1,15 @@
+.fotter-container {
+  display: flex;
+  flex-direction: row;
+}
+.fotter1 {
+  display: flex;
+  flex: 60%;
+}
+.fotter2 {
+  display: flex;
+  flex: 40%;
+}
+ul {
+  list-style: none;
+}
